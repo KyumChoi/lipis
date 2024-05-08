@@ -26,7 +26,7 @@ lipis_0504 최겸
     - 패치에서 추출된 특징을 기반으로 SVM 분류기를 학습시켜 정상과 이상 패치를 구분할 수 있습니다.
 
 ---
-VGG16 사용 결과
+## VGG16 사용 결과
 <img width="837" alt="스크린샷 2024-05-05 17 55 16" src="https://github.com/KyumChoi/lipis/assets/163367158/1af622b8-962b-4294-b167-6c00b3f81a08">
 <img width="877" alt="스크린샷 2024-05-05 22 28 43" src="https://github.com/KyumChoi/lipis/assets/163367158/6b097e67-b2b2-4a01-bdd7-3e157110799e">
 
